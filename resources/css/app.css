@@ -1,0 +1,11 @@
+body{
+    background-color: antiquewhite;
+    width: 80%;
+    margin-inline: auto;
+    margin-block-start: 10vw;
+}
+table{
+    background:white;
+    width:70%;
+    margin-inline: auto;
+}
